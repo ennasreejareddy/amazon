@@ -4,7 +4,7 @@ A front-end clone of the Amazon homepage built using **HTML and CSS**. This proj
 
 ## 🌐 Live Demo
 
-**[View Amazon Clone](https://ennasreejareddy.github.io/amazon/)**
+The live demo is temporarily unavailable while I investigate a browser security warning.
 
 ## 📂 GitHub Repository
 
@@ -97,4 +97,6 @@ The objective of this project is to practice front-end web development by recrea
 
 ---
 
-*This is an educational front-end project inspired by Amazon's homepage. It is not affiliated with or endorsed by Amazon.*
+## Disclaimer
+
+This is an independent educational project created to practice HTML and CSS. It is not affiliated with or endorsed by Amazon. It does not provide actual shopping, payment, or account-login functionality.
